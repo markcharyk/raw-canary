@@ -1,0 +1,5 @@
+{
+  "template": "ember",
+  "hardReloadOnChange": true,
+  "infiniteLoopProtection": true
+}
